@@ -4,9 +4,10 @@
 Developed an interactive sales dashboard using Excel (Power Query, Pivot Tables, Charts, Slicers) to analyze ₹58,20,182 sales from 9,994 transactions. Provides insights into sales, shipping, regions, categories, and customer behavior.  
 
 ## 📂 Files in this Repository  
-- [SuperStore_Sales_Dashboard.xlsx](./SuperStore_Sales_Dashboard.xlsx) → Main Excel file.  
-- [Dashboard.png](./Dashboard.png) → Final Dashboard.  
-- [Screenshot1.png](./Screenshot1.png), [Screenshot2.png](./Screenshot2.png) → Pivot table & workflow steps.  
+- [Dashboard.xlsx](./Dashboard.xlsx) → Main Excel dashboard file.  
+- [Dashboard.png](./Dashboard.png) → Final Dashboard visualization.  
+- [Pivot tables.png](./Pivot%20tables.png) → Pivot table summary.  
+- [Superstore Data.xlsx](./Superstore%20Data.xlsx) → Raw dataset.  
 
 ## 🔑 Key Insights  
 - Total Sales: ₹58,20,182 | Transactions: 9,994 | Avg Sale: ₹582.37  
