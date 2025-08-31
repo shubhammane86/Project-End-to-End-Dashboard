@@ -5,7 +5,7 @@ Developed an interactive sales dashboard using Excel (Power Query, Pivot Tables,
 
 ## 📂 Files in this Repository  
 - `SuperStore_Sales_Dashboard.xlsx` → Main Excel file.  
-- `[Dashboard.png](https://github.com/shubhammane86/Project-End-to-End-Dashboard/blob/main/Dashboard.png)` → Final Dashboard.  
+- `[Dashboard.png]` → Final Dashboard.  
 - `Screenshot1.png`, `Screenshot2.png` → Pivot table & workflow steps.  
 
 ## 🔑 Key Insights  
